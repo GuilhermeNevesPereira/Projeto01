@@ -1,0 +1,19 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Projeto completo para aprender do front ao back end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeNevesPereira/Projeto01.git"
+  },
+  "author": "Guilherme J.N. Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeNevesPereira/Projeto01/issues"
+  },
+  "homepage": "https://github.com/GuilhermeNevesPereira/Projeto01#readme"
+}
